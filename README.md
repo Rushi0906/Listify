@@ -23,11 +23,6 @@ A clean, responsive Todo List web application built with Flask. This app lets yo
 
 ---
 
-## 📷 Screenshots
-
-> *(Add screenshots or GIFs of your app here if available)*
-
----
 
 ## 🔧 Getting Started
 
